@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/xhrilke)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hrishishelkedsajava/) 
 
 ### Hello World 👋 
-👨‍💻 Future Backend Developer | Embracing the journey of learning and problem-solving | Open to Learn/Solve/Collaborate/Build/Develop | 🚀
+👨‍💻 Aspiring Backend Developer | Embracing the journey of learning and problem-solving | Open to Learn/Solve/Collaborate/Build/Develop | 🚀
 
 🌟 About Me:
 
@@ -20,4 +20,4 @@ Databases: MySQL
 Tools & Technologies: GIT | GITHUB | IntelliJ
 CS Fundamentals : SOLID Principles | MVC Architecture | Design Patterns
 
-🌟 Let's embark on this journey together, learning, solving, and building impactful solutions along the way! Feel free to reach out—I'm always open to connecting and collaborating. 🚀
+🌟 Let's embark on this journey together, learning, solving, and building impactful solutions along the way! Feel free to reach out I'm always open to connecting and collaborating. 🚀
