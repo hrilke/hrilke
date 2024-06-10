@@ -1,23 +1,30 @@
 <img src="https://github.com/hrilke/hrilke/blob/main/github-header-image.png">
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/xhrilke)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hrishishelkedsajava/) 
-
-### Hello World 👋 
-👨‍💻 Aspiring Backend Developer | Embracing the journey of learning and problem-solving | Open to Learn/Solve/Collaborate/Build/Develop | 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrilke&label=Profile%20views&color=0e75b6&style=flat" alt="hrilke" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/xhrilke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xhrilke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hrilke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrilke" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hrilke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrilke" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hrilke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hrilke" height="30" width="40" /></a>
+</p>
+<h1 align="center">HELLO WORLD👋</h1>
+<h3 align="center">I'm Aspiring Backend Developer, Embracing the journey of learning and problem-solving</h3>
 
 🌟 About Me:
+- 👨‍💻 All of my projects are available at [https://github.com/hrilke?tab=repositories](https://github.com/hrilke?tab=repositories)
 
-🔭 Embarking on the exciting journey of becoming a backend developer, fueled by a passion for learning and problem-solving.
-🌱 I believe in continuous growth and am always eager to expand my skills and knowledge.
-💡 With a mindset geared towards innovation, I approach challenges as opportunities to learn and improve.
-🚀 Open to collaboration and always ready to contribute to projects that make a difference.
+- 📫 How to reach me **dev.hrishi@outlook.com**
+  
+- 🌱 I believe in continuous growth and am always eager to expand my skills and knowledge.
+  
+- 💡 I am currently learning : Springboot, AWS, RESTful APIs, AWS, Dockerm Kubernetis 
+ 
+- 🚀 Open to collaborate and contribute to projects that make a difference.
+  
 
-🛠️ Tech Stack:
 
-Languages: Java 
-Frameworks: Springboot
-Databases: MySQL
-Tools & Technologies: GIT | GITHUB | IntelliJ
-CS Fundamentals : SOLID Principles | MVC Architecture | Design Patterns
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-🌟 Let's embark on this journey together, learning, solving, and building impactful solutions along the way! Feel free to reach out I'm always open to connecting and collaborating. 🚀
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrilke&show_icons=true&locale=en" alt="hrilke" /></p>
