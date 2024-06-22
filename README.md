@@ -11,13 +11,15 @@
 <h3 align="center">I'm Aspiring Backend Developer, Embracing the journey of learning and problem-solving</h3>
 
 🌟 About Me:
-- 👨‍💻 All of my projects are available at [https://github.com/hrilke?tab=repositories](https://github.com/hrilke?tab=repositories)
+- 💡 Pursuing Master of Science in Computer Science at Scaler Neovarsity Member of Woolf University (ECTS Accredited). [Academic Record](https://github.com/hrilke/Master-of-Science-in-Computer-Science/blob/main/Transcript-Shelke-Hrishikesh%20Navnath%20(3).pdf)
+   
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/hrilke?tab=repositories)
 
 - 📫 How to reach me **dev.hrishi@outlook.com**
   
 - 🌱 I believe in continuous growth and am always eager to expand my skills and knowledge.
   
-- 💡 I am currently learning : Springboot, AWS, RESTful APIs, AWS, Dockerm Kubernetis 
+- 💡 I am currently learning tools like: Springboot, AWS, RESTful APIs, AWS, Docker Kubernetis 
  
 - 🚀 Open to collaborate and contribute to projects that make a difference.
   
