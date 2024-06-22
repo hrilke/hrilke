@@ -11,7 +11,7 @@
 <h3 align="center">I'm Aspiring Backend Developer, Embracing the journey of learning and problem-solving</h3>
 
 🌟 About Me:
-- 💡 Pursuing Master of Science in Computer Science at Scaler Neovarsity Member of Woolf University (ECTS Accredited). [Academic Record](https://github.com/hrilke/Academic-Records/blob/main/MS-CS%20Acedemic%20Record.pdf)
+- 💡 Pursuing Master of Science in Computer Science at Scaler Neovarsity Member of Woolf University (ECTS Accredited). [Academic Record](https://github.com/hrilke/AR/blob/main/MS.pdf)
    
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/hrilke?tab=repositories)
 
