@@ -8,7 +8,7 @@
 <a href="https://www.leetcode.com/hrilke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hrilke" height="30" width="40" /></a>
 </p>
 <h1 align="center">HELLO WORLD👋</h1>
-<h3 align="center">I'm Aspiring Backend Developer, Embracing the journey of learning and problem-solving</h3>
+<h3 align="center">I'm Backend Developer at Snoodify, Embracing the journey of learning and problem-solving</h3>
 
 🌟 About Me:
 - 💡 Pursuing Master of Science in Computer Science at Scaler Neovarsity Member of Woolf University (ECTS Accredited). [Academic Record](https://github.com/hrilke/AR/blob/main/MS.pdf)
